@@ -1,5 +1,7 @@
 # Deep_Learning_Course
 
+By Nimrod Curtis & Alon Mizrahi
+
 ---
 ## Course Overview
 
